@@ -21,7 +21,6 @@
 
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/logoColor=white)(https://portfolio1-mu-ecru.vercel.app/)]
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com) -->
 
 ## 📊 Most Used Languages  
